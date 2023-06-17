@@ -1,0 +1,15 @@
+C:\Users\foto\source\repos\pinger\pinger\bin\Debug\net6.0\pinger.exe
+C:\Users\foto\source\repos\pinger\pinger\bin\Debug\net6.0\pinger.deps.json
+C:\Users\foto\source\repos\pinger\pinger\bin\Debug\net6.0\pinger.runtimeconfig.json
+C:\Users\foto\source\repos\pinger\pinger\bin\Debug\net6.0\pinger.dll
+C:\Users\foto\source\repos\pinger\pinger\bin\Debug\net6.0\pinger.pdb
+C:\Users\foto\source\repos\pinger\pinger\obj\Debug\net6.0\pinger.csproj.AssemblyReference.cache
+C:\Users\foto\source\repos\pinger\pinger\obj\Debug\net6.0\pinger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foto\source\repos\pinger\pinger\obj\Debug\net6.0\pinger.AssemblyInfoInputs.cache
+C:\Users\foto\source\repos\pinger\pinger\obj\Debug\net6.0\pinger.AssemblyInfo.cs
+C:\Users\foto\source\repos\pinger\pinger\obj\Debug\net6.0\pinger.csproj.CoreCompileInputs.cache
+C:\Users\foto\source\repos\pinger\pinger\obj\Debug\net6.0\pinger.dll
+C:\Users\foto\source\repos\pinger\pinger\obj\Debug\net6.0\refint\pinger.dll
+C:\Users\foto\source\repos\pinger\pinger\obj\Debug\net6.0\pinger.pdb
+C:\Users\foto\source\repos\pinger\pinger\obj\Debug\net6.0\pinger.genruntimeconfig.cache
+C:\Users\foto\source\repos\pinger\pinger\obj\Debug\net6.0\ref\pinger.dll
